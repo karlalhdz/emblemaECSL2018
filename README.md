@@ -6,7 +6,7 @@ A modo de tradición y en algunas ocasiones la comunidad organizadora del encuen
 # Licencia y atribución.
 [Licencia Creative Commons internacional 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES)
 
-**Donación:** Comunidad Salvadoreña de Software Libre en razón de uso del X Encuentro Centroaméricano de Software Libre 2018.
+**Donación:** Comunidad Salvadoreña de Software Libre en razón de uso del X Encuentro Centroaméricano de Software Libre. 
 
 **Creadora:** Karla L. Hernández,*(@karlalhdz)*
 
