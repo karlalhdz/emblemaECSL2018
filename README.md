@@ -3,7 +3,8 @@ A modo de tradición y en algunas ocasiones la comunidad organizadora del encuen
 
 ![Emblema ECSL2018](https://raw.githubusercontent.com/karlalhdz/emblemaECSL2018/master/EmblemaECSL18_KarlaHernandez.png)
 
-# Licencia y atribución.
+# Detalles del Emblema.
+## Licencia y atribución.
 [Licencia Creative Commons internacional 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES)
 
 **Donación:** Comunidad Salvadoreña de Software Libre en razón de uso del X Encuentro Centroaméricano de Software Libre. 
